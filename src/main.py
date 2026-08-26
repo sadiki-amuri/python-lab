@@ -1,7 +1,5 @@
-# main.py
-
-# Import all three functions from utils.py
-from utils import square, is_even, celsius_to_fahrenheit
+def greet(name):
+    return f"hello, {name}!"
 
 def main():
     try:
